@@ -130,7 +130,7 @@ git clone https://github.com/yourusername/GoalSphere.git
 ## Navigate to Project
 
 ```bash
-cd GoalSphere
+cd momentum-goals-main
 ```
 
 ## Install Dependencies
